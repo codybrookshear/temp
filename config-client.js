@@ -1,0 +1,1 @@
+console.log('And I\'m a real config-client! 😉');
